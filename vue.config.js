@@ -28,5 +28,5 @@ module.exports = {
       msTileImage: 'logo.png'
     }
   },
-  publicPath: process.env.NODE_ENV === 'production' ? '/vuejs-pwa/' : '/'
+  publicPath: process.env.NODE_ENV === 'production' ? '/memo-pwa/' : '/'
 };
