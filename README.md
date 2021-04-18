@@ -1,11 +1,11 @@
-# vuejs-pwa
+# memo-pwa
 - Vuejs3
 - Tailwind Css
 - PWA (cli-plugin-pwa)
 - Storybook (Bug currently)
 
 # Exam Page
-https://phamthanhthuongbk.github.io/vuejs-pwa/
+https://phamthanhthuongbk.github.io/memo-pwa/
 
 ## Project setup
 ```

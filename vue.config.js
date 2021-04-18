@@ -1,8 +1,8 @@
 module.exports = {
   pwa: {
     manifestOptions: {
-      name: "Vue PWA",
-      short_name: "Vue PWA",
+      name: "Memo PWA",
+      short_name: "Memo PWA",
       start_url: "./",
       display: "standalone",
       theme_color: "#42b983",
