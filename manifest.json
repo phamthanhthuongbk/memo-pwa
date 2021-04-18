@@ -1,0 +1,1 @@
+{"name":"Memo PWA","short_name":"Memo PWA","theme_color":"#42b983","icons":[{"src":"logo.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}],"start_url":"./","display":"standalone","background_color":"#42b983"}
