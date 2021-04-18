@@ -2,6 +2,17 @@
   <div class="box-border border rounded-sm p-5">
     <h1>{{ msg }}</h1>
   </div>
+
+  <input type="email" class="form-input mt-2 rounded-md">
+  <br>
+  <select class="form-select mt-2 rounded-md">
+    <option value="volvo">Volvo</option>
+    <option value="saab">Saab</option>
+    <option value="mercedes">Mercedes</option>
+    <option value="audi">Audi</option>
+  </select>
+  <br>
+  <input type="checkbox" class="form-checkbox rounded text-pink-500" />
 </template>
 
 <script lang="ts">

@@ -1,5 +1,5 @@
 <template>
-<div class="max-w-3xl m-auto">
+<div class="max-w-3xl m-auto p-2">
   <div class="flex justify-center">
     <img alt="Vue logo" src="./assets/logo.png" />
   </div>
